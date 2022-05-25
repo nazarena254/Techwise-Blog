@@ -15,7 +15,7 @@ Nazarena Wambura.</br>
 ## Technologies used
 * Python3.9
 * Flask2.1.1
-* Heroku7.60.2
+* Heroku7
 * Markdown
 
 
